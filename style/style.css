@@ -47,12 +47,12 @@ button{
     background-color: rgb(252, 97, 226);
     /* position: absolute; */
 }
-#sim{
+/* #sim{
     margin-bottom: 40px;
-}
+} */
 #nao{
     position: absolute;
-    top: 58%;
+    top: 70%;
 }
 .popup{
     display: none;
